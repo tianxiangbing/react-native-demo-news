@@ -12,5 +12,8 @@
     "react-native-gifted-listview": "0.0.15",
     "react-native-swiper": "^1.4.6",
     "react-native-tab-navigator": "^0.3.2"
+  },
+  "devDependencies": {
+    "react-native-scrollable-tab-view": "^0.5.3"
   }
 }
