@@ -13,3 +13,4 @@ temp/
 npm-debug.log
 .git
 node_modules
+build
